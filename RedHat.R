@@ -1,4 +1,3 @@
-setwd("C:\\Users\\hariprasadg\\Desktop\\KaggleRedHat")
 
 library(data.table)
 
